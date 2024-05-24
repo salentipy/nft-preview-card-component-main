@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution Site]()
+- Solution URL: [Frontend Mentor Solution Site](https://www.frontendmentor.io/solutions/nft-preview-card-component-pkDAsf9u_p)
 - Live Site URL: [Live Site via GitHub Pages](https://salentipy.github.io/nft-preview-card-component-main/)
 
 ## My process
